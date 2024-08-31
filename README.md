@@ -1,147 +1,187 @@
-# Satoru-Bug-Bot
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
+<!DOCTYPE html>
+<html lang="fr">
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+Satoru-Bug-Bot;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPPER+PAR+SatoruTech" alt="Typing SVG" /></a>
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Satoru-Bug-Bot</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
 
-### Si vous souhaitez déployer ailleurs, téléchargez votre creds.json dans le dossier de session après avoir obtenu le code de paire sur replit.
+        h1 {
+            font-size: 2.5em;
+            color: #333;
+        }
 
-### 1. <a href="https://github.com/SatoruTech/Satoru-Bug-Bot/fork"><img title="WEB" src="https://img.shields.io/badge/Fork Satoru-Bug-Bot?color=black&style=for-the-badge&logo=stackshare"></a>
-### 2. <a href="https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
-### 3. <a href="https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1"><img src="https://img.shields.io/badge/PAIR_CODE-orange" alt="Clique ici si le pairing code 1 ne marche pas" width="90"></a>
-### 4. <a href='https://solarhosting.cc/' target="_blank"><img alt='Panel Link' src='https://img.shields.io/badge/-DEPLOYER%20SUR%20PANEL-pink?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
-### 5. <a href='https://replit.com/@SatoruTech/Satoru-Bug-Bot' target="_blank"><img alt='Deployer sur Replit' src='https://img.shields.io/badge/-DEPLOYER SUR REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>  
+        img {
+            max-width: 100%;
+            height: auto;
+        }
 
-## Pour regarder des tutoriels.
-<a href="https://www.youtube.com/@SatoruTech"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@SatoruTech" /><br>
+        .center {
+            margin: 20px 0;
+        }
 
+        .gif-container {
+            margin: 20px 0;
+        }
 
-</br>
+        pre {
+            background-color: #eee;
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: left;
+            white-space: pre-wrap;
+        }
 
-#### COPIE ET PASSE CES COMMANDES SI TU VEUX DÉPLOYER  [Satoru-Bug-Bot](https://github.com/SatoruTech/Satoru-Bug-Bot/) SUR UN TERMINAL 
-```
+        code {
+            display: block;
+            padding: 10px;
+            background-color: #fafafa;
+            border: 1px solid #ccc;
+            white-space: pre-wrap;
+            overflow: auto;
+        }
+
+        .contact-links a {
+            display: block;
+            margin: 10px 0;
+            font-size: 1.2em;
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        .contact-links a:hover {
+            text-decoration: underline;
+        }
+
+        .thank-you {
+            margin: 30px 0;
+            font-size: 1.2em;
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="gif-container">
+        <img src="https://i.imgur.com/LyHic3i.gif" alt="Satoru-Bug-Bot">
+        <h1>Satoru-Bug-Bot</h1>
+        <img src="https://i.imgur.com/LyHic3i.gif" alt="Satoru-Bug-Bot">
+    </div>
+
+    <div class="center">
+        <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+Satoru-Bug-Bot;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPPER+PAR+SatoruTech"
+            alt="Typing SVG" />
+    </div>
+
+    <div class="gif-container">
+        <img src="https://i.imgur.com/LyHic3i.gif" alt="Satoru-Bug-Bot">
+        <img src="https://i.imgur.com/LyHic3i.gif" alt="Satoru-Bug-Bot">
+    </div>
+
+    <section>
+        <h2>Instructions de déploiement</h2>
+        <p>Si vous souhaitez déployer ailleurs, téléchargez votre <code>creds.json</code> dans le dossier de session après avoir obtenu le code de pair sur Replit.</p>
+        <h3>Étapes pour déployer :</h3>
+        <ul>
+            <li><a href="https://github.com/SatoruTech/Satoru-Bug-Bot/fork" target="_blank">Forker le bot depuis GitHub</a></li>
+            <li><a href="https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1" target="_blank">Obtenir votre Pair-Code depuis Replit</a></li>
+            <li><a href="https://solarhosting.cc/" target="_blank">Déployer sur un Panel</a></li>
+            <li><a href="https://replit.com/@SatoruTech/Satoru-Bug-Bot" target="_blank">Déployer sur Replit</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h3>Tutoriels Vidéos</h3>
+        <a href="https://www.youtube.com/@SatoruTech" target="_blank">Chaîne YouTube SatoruTech</a>
+    </section>
+
+    <section>
+        <h2>Commandes pour déployer le Satoru-Bug-Bot sur un terminal :</h2>
+        <pre><code>
 sudo apt -y update && sudo apt -y upgrade
-```
-```
 sudo apt -y install git ffmpeg curl
-```
-```
 curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
-```
-```
 sudo -E bash nodesource_setup.sh
-```
-```
 sudo apt-get install -y nodejs
-```
-```
 sudo npm install -g yarn
-```
-```
 sudo yarn global add pm2
-```
-```
-git clone https://github.com/SatoruTech/Satoru-Bug-Bot/  
-```
-```
+git clone https://github.com/SatoruTech/Satoru-Bug-Bot/
 cd Satoru-Bug-Bot
-yarn install 
-npm start
-```
- 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-# Déployement sur termux
-```
-termux-setup-storage
-```
-```
-apt update
-```
-```
-apt upgrade
-```
-```
-pkg update && pkg upgrade
-```
-```
-pkg install bash
-```
-```
-pkg install libwebp
-```
-```
-pkg install git -y
-```
-```
-pkg install nodejs -y
-```
-```
-pkg install ffmpeg -y 
-```
-```
-pkg install wget
-```
-```
-pkg install yarn
-```
-```
-git clone (copie et passe le lien du repo que tu a fork) 
-```
-```
-cd Satoru-Bug-Bot
-```
-```
 yarn install
-```
-```
 npm start
-```
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-- si tu veux le bot pour  24/7 (peut ne pas fonctionner) 
-```js
+        </code></pre>
+    </section>
+
+    <section>
+        <h2>Déploiement sur Termux :</h2>
+        <pre><code>
+termux-setup-storage
+apt update && apt upgrade
+pkg install bash libwebp git nodejs ffmpeg wget yarn
+git clone https://github.com/<votre_nom_utilisateur>/Satoru-Bug-Bot.git
+cd Satoru-Bug-Bot
+yarn install
+npm start
+        </code></pre>
+        <p>Pour exécuter le bot en continu (peut ne pas fonctionner) :</p>
+        <pre><code>
 npm i -g forever && forever index.js && forever save && forever logs
-```
-<br>
+        </code></pre>
+    </section>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<br>
-<h2 align="center"> 🛡️ Windows Cmd & Vs 🛡️ </h2>
+    <section>
+        <h2>Windows Cmd & Vs :</h2>
+        <p>Télécharger les outils nécessaires :</p>
+        <ul>
+            <li><a href="https://ffmpeg.org/download.html#build-windows" target="_blank">Télécharger ffmpeg</a></li>
+            <li><a href="https://eternallybored.org/misc/wget/releases/" target="_blank">Télécharger wget</a></li>
+            <li><a href="https://nodejs.org/en/download/" target="_blank">Télécharger Node.js</a></li>
+            <li><a href="https://git-scm.com/downloads" target="_blank">Télécharger Git</a></li>
+            <li><a href="https://developers.google.com/speed/webp/download" target="_blank">Télécharger Libwebp</a></li>
+        </ul>
 
-- [Télécharger ffmpeg](https://ffmpeg.org/download.html#build-windows) and set the path
-- [Télécharger wget](https://eternallybored.org/misc/wget/releases/) and set the path
-- [Télécharger Node.js](https://nodejs.org/en/download/)
-- [Download Git](https://git-scm.com/downloads)
-- [Télécharger Libwebp](https://developers.google.com/speed/webp/download)
+        <h3>Commandes :</h3>
+        <pre><code>
+git clone https://github.com/SatoruTech/Satoru-Bug-Bot/
+cd Satoru-Bug-Bot
+yarn install
+npm start
+        </code></pre>
+    </section>
 
-```cmd
-> git https://github.com/SatoruTech/Satoru-Bug-Bot/
-```
-```
-> cd Satoru-Bug-Bot
-```
-```
-> yarn install
-```
-```
-> npm start
-```
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <div class="gif-container">
+        <img src="https://i.imgur.com/LyHic3i.gif" alt="Satoru-Bug-Bot">
+        <img src="https://i.imgur.com/LyHic3i.gif" alt="Satoru-Bug-Bot">
+    </div>
 
-## ```Contacter moi```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
- <br> 
-<p align="center">
+    <section class="contact-links">
+        <h2>Contact</h2>
+        <a href="https://whatsapp.com/channel/0029Vanj84h6rsQmGlOrMz1X" target="_blank">Rejoindre le canal officiel WhatsApp</a>
+        <a href="https://www.youtube.com/@SatoruTech" target="_blank">Chaîne YouTube SatoruTech</a>
+    </section>
 
-<a href="https://whatsapp.com/channel/0029Vanj84h6rsQmGlOrMz1X"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.youtube.com/@SatoruTech"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@SatoruTech" /><br>
-<p align="center">
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    <div class="gif-container">
+        <img src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
+            alt="Development" width="250">
+    </div>
 
- ## Remerciements
+    <div class="thank-you">
+        <h2>Remerciements</h2>
+        <p>Merci à DGXeon : <a href="https://github.com/DGXeon" target="_blank">https://github.com/DGXeon</a> et à JEANPARKER100 : <a href="https://github.com/JEANPARKER100/PARKY-BUG-BOT" target="_blank">https://github.com/JEANPARKER100/PARKY-BUG-BOT</a> pour la base de données utilisée dans **Satoru Bug Bot**. Votre contribution est essentielle au bon fonctionnement du projet et est grandement appréciée.</p>
+    </div>
 
-Un grand merci à [![DGxeon](https://github.com/DGXeon.png?size=100)](https://github.com/DGXeon) pour la création de la base de données utilisée par le bot **Satoru Bug Bot**. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
-Un grand merci  a (https://github.com/JEANPARKER100/PARKY-BUG-BOT) pour la création de la base de données utilisée par le bot **Satoru Bug Bot**. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
+    <div class="gif-container">
+        <img src="https://i.imgur.com/LyHic3i.gif" alt="Satoru-Bug-Bot">
+        <img src="https://i.imgur.com/LyHic3i.gif" alt="Satoru-Bug-Bot">
+    </div>
+</body>
+
+</html>
