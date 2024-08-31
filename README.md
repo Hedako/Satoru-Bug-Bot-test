@@ -1,25 +1,20 @@
 Satoru-Bug-Bot
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+Satoru-Bug-Bot;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPPER+PAR+SatoruTech" alt="Typing SVG" /></a> </p>
+<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+Satoru-Bug-Bot;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPPER+PAR+SatoruTech" alt="Typing SVG" /> </a> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 Déploiement
 Déploiement sur Replit
-Fork Satoru-Bug-Bot:
-https://github.com/SatoruTech/Satoru-Bug-Bot/fork
+Fork Satoru-Bug-Bot: https://github.com/SatoruTech/Satoru-Bug-Bot/fork
 
-Obtenir le Pair-Code:
-https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1
+Obtenir le Pair-Code: https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1
 
-Pair-Code alternatif:
-https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1
+Pair-Code alternatif: https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1
 
-Déployer sur Solar Hosting:
-https://solarhosting.cc/
+Déployer sur Solar Hosting: https://solarhosting.cc/
 
-Déployer sur Replit:
-https://replit.com/@SatoruTech/Satoru-Bug-Bot
+Déployer sur Replit: https://replit.com/@SatoruTech/Satoru-Bug-Bot
 
 Déploiement sur Termux
 sh
@@ -40,22 +35,17 @@ cd Satoru-Bug-Bot
 yarn install
 npm start
 Déploiement sur Windows
-Télécharger ffmpeg:
-https://ffmpeg.org/download.html#build-windows
+Télécharger ffmpeg: https://ffmpeg.org/download.html#build-windows
 et configurer le chemin
 
-Télécharger wget:
-https://eternallybored.org/misc/wget/releases/
+Télécharger wget: https://eternallybored.org/misc/wget/releases/
 et configurer le chemin
 
-Télécharger Node.js:
-https://nodejs.org/en/download/
+Télécharger Node.js: https://nodejs.org/en/download/
 
-Télécharger Git:
-https://git-scm.com/downloads
+Télécharger Git: https://git-scm.com/downloads
 
-Télécharger Libwebp:
-https://developers.google.com/speed/webp/download
+Télécharger Libwebp: https://developers.google.com/speed/webp/download
 
 cmd
 Copier le code
@@ -83,6 +73,6 @@ https://www.youtube.com/@SatoruTech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 Remerciements
-Un grand merci à DGxeon pour la création de la base de données utilisée par le bot Satoru Bug Bot. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
+Un grand merci àpour la création de la base de données utilisée par le bot Satoru Bug Bot. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
 
 Un grand merci à PARKY-BUG-BOT pour la création de la base de données utilisée par le bot Satoru Bug Bot. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
