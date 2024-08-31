@@ -6,11 +6,21 @@ Satoru-Bug-Bot
 
 Déploiement
 Déploiement sur Replit
-Fork Satoru-Bug-Bot: https://github.com/SatoruTech/Satoru-Bug-Bot/fork
-Obtenir le Pair-Code: https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1
-Pair-Code alternatif: https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1
-Déployer sur Solar Hosting: https://solarhosting.cc/
-Déployer sur Replit: https://replit.com/@SatoruTech/Satoru-Bug-Bot
+Fork Satoru-Bug-Bot:
+https://github.com/SatoruTech/Satoru-Bug-Bot/fork
+
+Obtenir le Pair-Code:
+https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1
+
+Pair-Code alternatif:
+https://replit.com/@SatoruTech/SatoruTech-Pair-Code?v=1
+
+Déployer sur Solar Hosting:
+https://solarhosting.cc/
+
+Déployer sur Replit:
+https://replit.com/@SatoruTech/Satoru-Bug-Bot
+
 Déploiement sur Termux
 sh
 Copier le code
@@ -30,11 +40,23 @@ cd Satoru-Bug-Bot
 yarn install
 npm start
 Déploiement sur Windows
-Télécharger ffmpeg: https://ffmpeg.org/download.html#build-windows et configurer le chemin
-Télécharger wget: https://eternallybored.org/misc/wget/releases/ et configurer le chemin
-Télécharger Node.js: https://nodejs.org/en/download/
-Télécharger Git: https://git-scm.com/downloads
-Télécharger Libwebp: https://developers.google.com/speed/webp/download
+Télécharger ffmpeg:
+https://ffmpeg.org/download.html#build-windows
+et configurer le chemin
+
+Télécharger wget:
+https://eternallybored.org/misc/wget/releases/
+et configurer le chemin
+
+Télécharger Node.js:
+https://nodejs.org/en/download/
+
+Télécharger Git:
+https://git-scm.com/downloads
+
+Télécharger Libwebp:
+https://developers.google.com/speed/webp/download
+
 cmd
 Copier le code
 git clone https://github.com/SatoruTech/Satoru-Bug-Bot/
@@ -48,11 +70,16 @@ npm i -g forever && forever index.js && forever save && forever logs
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 Tutoriels
-Pour des tutoriels, abonnez-vous à SatoruTech sur YouTube: https://www.youtube.com/@SatoruTech
+Pour des tutoriels, abonnez-vous à SatoruTech sur YouTube:
+https://www.youtube.com/@SatoruTech
 
 Contact
-Rejoindre le canal officiel sur WhatsApp: https://whatsapp.com/channel/0029Vanj84h6rsQmGlOrMz1X
-S'abonner à la chaîne YouTube: https://www.youtube.com/@SatoruTech
+Rejoindre le canal officiel sur WhatsApp:
+https://whatsapp.com/channel/0029Vanj84h6rsQmGlOrMz1X
+
+S'abonner à la chaîne YouTube:
+https://www.youtube.com/@SatoruTech
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 Remerciements
